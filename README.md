@@ -8,6 +8,6 @@
 - 📫 How to reach me: 
 
 LinkedIn : https://www.linkedin.com/in/mathias-rudolf-6b1207311/ <br>
-email : matt67creativ@hotmail.fr
+Email : matt67creativ@hotmail.fr
 
 
