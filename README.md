@@ -1,6 +1,5 @@
 ## Hello internet 🌱
 
-<!--
 - Actuellement en formation de remise à niveau chez Elan, débouchant sur une formation diplomante.
 - Pour projet de trouver une alternance ou un emploi dans le web.
 - Je suis en train d'apprendre et de me perfectionner sur HTML/CSS/PHP.
